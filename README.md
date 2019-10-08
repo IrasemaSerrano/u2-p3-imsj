@@ -1,2 +1,2 @@
 # u2-p3-imsj
- generar un .txt con numeros primos
+ Generar un documento con extensión .txt en donde se guarden los numeros primos de un rango de valores dados.
